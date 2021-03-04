@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664829446939",
+    "project_id": "clevertaptask",
+    "storage_bucket": "clevertaptask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664829446939:android:1ae2cffa8e435c1bc1e1be",
+        "android_client_info": {
+          "package_name": "com.example.clevertaptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664829446939-3u9298njbclom1l6funf6ti5mfebg0so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Al6b_W8NpMG0cj3NSMAgLMStkDAppiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664829446939-3u9298njbclom1l6funf6ti5mfebg0so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
